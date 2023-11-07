@@ -1,6 +1,4 @@
-#!/usr/bin/env python3
-# Last updated: Jan, 2023
-# Author: Phuthipong (Nikko)
+
 import sys
 import socket
 import datetime
